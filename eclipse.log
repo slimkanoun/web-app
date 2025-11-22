@@ -1,0 +1,302 @@
+nohup: les entrées sont ignorées
+To override eclipse.ini, copy the default file to '/home/user/snap/eclipse/126/eclipse.ini' and modify to suit.
+oct. 21, 2025 12:30:49 PM org.apache.aries.spifly.BaseActivator log
+INFOS: Registered provider ch.qos.logback.classic.spi.LogbackServiceProvider of service org.slf4j.spi.SLF4JServiceProvider in bundle ch.qos.logback.classic
+12:30:55.792 [Start Level: Equinox Container: 231b1369-a444-43e4-87bb-e2f230c31706] DEBUG org.eclipse.jgit.internal.util.ShutdownHook -- register org.eclipse.jgit.util.FS$FileStoreAttributes$$Lambda/0x00000004011ce620@3a0b2a79 with shutdown hook
+12:30:55.792 [Start Level: Equinox Container: 231b1369-a444-43e4-87bb-e2f230c31706] DEBUG org.eclipse.jgit.internal.util.ShutdownHook -- register org.eclipse.jgit.util.FS$FileStoreAttributes$$Lambda/0x00000004011ce620@3a0b2a79 with shutdown hook
+12:30:57.324 [main] DEBUG org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob -- Queued refresh request: [/Calcul/pom.xml, /CalculWeb/pom.xml, /slim/pom.xml]
+12:30:57.324 [main] DEBUG org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob -- Queued refresh request: [/Calcul/pom.xml, /CalculWeb/pom.xml, /slim/pom.xml]
+libEGL warning: egl: failed to create dri2 screen
+libEGL warning: DRI2: failed to create screen
+MESA: error: DRM_IOCTL_VIRTGPU_GET_CAPS failed with Fonction non implantée
+MESA: error: DRM_IOCTL_VIRTGPU_CONTEXT_INIT failed with Argument invalide, continuing without context...
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: ZINK: failed to choose pdev
+libEGL warning: egl: failed to create dri2 screen
+libEGL warning: DRI2: failed to create screen
+libEGL warning: egl: failed to create dri2 screen
+libEGL warning: DRI2: failed to create screen
+MESA: error: DRM_IOCTL_VIRTGPU_GET_CAPS failed with Fonction non implantée
+MESA: error: DRM_IOCTL_VIRTGPU_CONTEXT_INIT failed with Argument invalide, continuing without context...
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: ZINK: failed to choose pdev
+libEGL warning: egl: failed to create dri2 screen
+libEGL warning: DRI2: failed to create screen
+libEGL warning: egl: failed to create dri2 screen
+libEGL warning: DRI2: failed to create screen
+MESA: error: DRM_IOCTL_VIRTGPU_GET_CAPS failed with Fonction non implantée
+MESA: error: DRM_IOCTL_VIRTGPU_CONTEXT_INIT failed with Argument invalide, continuing without context...
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: ZINK: failed to choose pdev
+libEGL warning: egl: failed to create dri2 screen
+libEGL warning: DRI2: failed to create screen
+libEGL warning: egl: failed to create dri2 screen
+libEGL warning: DRI2: failed to create screen
+MESA: error: DRM_IOCTL_VIRTGPU_GET_CAPS failed with Fonction non implantée
+MESA: error: DRM_IOCTL_VIRTGPU_CONTEXT_INIT failed with Argument invalide, continuing without context...
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: ZINK: failed to choose pdev
+libEGL warning: egl: failed to create dri2 screen
+libEGL warning: DRI2: failed to create screen
+libEGL warning: egl: failed to create dri2 screen
+libEGL warning: DRI2: failed to create screen
+MESA: error: DRM_IOCTL_VIRTGPU_GET_CAPS failed with Fonction non implantée
+MESA: error: DRM_IOCTL_VIRTGPU_CONTEXT_INIT failed with Argument invalide, continuing without context...
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: ZINK: failed to choose pdev
+libEGL warning: egl: failed to create dri2 screen
+libEGL warning: DRI2: failed to create screen
+libEGL warning: egl: failed to create dri2 screen
+libEGL warning: DRI2: failed to create screen
+MESA: error: DRM_IOCTL_VIRTGPU_GET_CAPS failed with Fonction non implantée
+MESA: error: DRM_IOCTL_VIRTGPU_CONTEXT_INIT failed with Argument invalide, continuing without context...
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: ZINK: failed to choose pdev
+libEGL warning: egl: failed to create dri2 screen
+libEGL warning: DRI2: failed to create screen
+libEGL warning: egl: failed to create dri2 screen
+libEGL warning: DRI2: failed to create screen
+MESA: error: DRM_IOCTL_VIRTGPU_GET_CAPS failed with Fonction non implantée
+MESA: error: DRM_IOCTL_VIRTGPU_CONTEXT_INIT failed with Argument invalide, continuing without context...
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: ZINK: failed to choose pdev
+libEGL warning: egl: failed to create dri2 screen
+libEGL warning: DRI2: failed to create screen
+libEGL warning: egl: failed to create dri2 screen
+libEGL warning: DRI2: failed to create screen
+MESA: error: DRM_IOCTL_VIRTGPU_GET_CAPS failed with Fonction non implantée
+MESA: error: DRM_IOCTL_VIRTGPU_CONTEXT_INIT failed with Argument invalide, continuing without context...
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: ZINK: failed to choose pdev
+libEGL warning: egl: failed to create dri2 screen
+libEGL warning: DRI2: failed to create screen
+libEGL warning: egl: failed to create dri2 screen
+libEGL warning: DRI2: failed to create screen
+MESA: error: DRM_IOCTL_VIRTGPU_GET_CAPS failed with Fonction non implantée
+MESA: error: DRM_IOCTL_VIRTGPU_CONTEXT_INIT failed with Argument invalide, continuing without context...
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: ZINK: failed to choose pdev
+libEGL warning: egl: failed to create dri2 screen
+libEGL warning: DRI2: failed to create screen
+libEGL warning: egl: failed to create dri2 screen
+libEGL warning: DRI2: failed to create screen
+MESA: error: DRM_IOCTL_VIRTGPU_GET_CAPS failed with Fonction non implantée
+MESA: error: DRM_IOCTL_VIRTGPU_CONTEXT_INIT failed with Argument invalide, continuing without context...
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: ZINK: failed to choose pdev
+libEGL warning: egl: failed to create dri2 screen
+libEGL warning: DRI2: failed to create screen
+libEGL warning: egl: failed to create dri2 screen
+libEGL warning: DRI2: failed to create screen
+MESA: error: DRM_IOCTL_VIRTGPU_GET_CAPS failed with Fonction non implantée
+MESA: error: DRM_IOCTL_VIRTGPU_CONTEXT_INIT failed with Argument invalide, continuing without context...
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: ZINK: failed to choose pdev
+libEGL warning: egl: failed to create dri2 screen
+libEGL warning: DRI2: failed to create screen
+libEGL warning: egl: failed to create dri2 screen
+libEGL warning: DRI2: failed to create screen
+MESA: error: DRM_IOCTL_VIRTGPU_GET_CAPS failed with Fonction non implantée
+MESA: error: DRM_IOCTL_VIRTGPU_CONTEXT_INIT failed with Argument invalide, continuing without context...
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: ZINK: failed to choose pdev
+libEGL warning: egl: failed to create dri2 screen
+libEGL warning: DRI2: failed to create screen
+libEGL warning: egl: failed to create dri2 screen
+libEGL warning: DRI2: failed to create screen
+MESA: error: DRM_IOCTL_VIRTGPU_GET_CAPS failed with Fonction non implantée
+MESA: error: DRM_IOCTL_VIRTGPU_CONTEXT_INIT failed with Argument invalide, continuing without context...
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: ZINK: failed to choose pdev
+libEGL warning: egl: failed to create dri2 screen
+libEGL warning: DRI2: failed to create screen
+libEGL warning: egl: failed to create dri2 screen
+libEGL warning: DRI2: failed to create screen
+MESA: error: DRM_IOCTL_VIRTGPU_GET_CAPS failed with Fonction non implantée
+MESA: error: DRM_IOCTL_VIRTGPU_CONTEXT_INIT failed with Argument invalide, continuing without context...
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: DRM_VIRTGPU_RESOURCE_CREATE_BLOB failed with Argument invalide
+MESA: error: Failed to create virtgpu AddressSpaceStream
+MESA: error: ZINK: failed to choose pdev
+libEGL warning: egl: failed to create dri2 screen
+libEGL warning: DRI2: failed to create screen
